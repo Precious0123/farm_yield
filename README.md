@@ -83,6 +83,9 @@ d)	1995 in February consisting of 15 item index
 
 e)	1995 in January consisting of 14 item index 
 
-# •	Top 10 years and months of maximum yield include; 2024 around January , 2023 around January, Febuary, March, April, May, June, July, then in August and September.
+# •	Top 10 years and months of maximum yield include; 
+
+2024 around January , 2023 around January, Febuary, March, April, May, June, July, then in August and September.
+
 # •	Top 20 years and months with the lowest yield desc include;
 
