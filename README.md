@@ -89,3 +89,5 @@ e)	1995 in January consisting of 14 item index
 
 # •	Top 20 years and months with the lowest yield desc include;
 
+1995 Dec, 1995 Nov, 1995 Oct, 1995 Sep, 1995 Aug, 1995 July, 1995 June, 1995 May, 1995 April, 1995 March, 1995 Feb, 1995 Jan, 1996 Sept, 1996 Aug., 1996 July 1996 June, 1996 May ,  1996 April, 1996 March 1996 Feb
+
