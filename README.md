@@ -2,19 +2,19 @@
 
 ## Table of Contents
 
--[project overview](# project-overview)
+-[project overview](#project-overview)
 
--[data source](# data-source)
+-[data source](#data-source)
 
--[tools used](# tools-used)
+-[tools used](#tools-used)
 
--[possible questions generated](# possible-questions-generated)
+-[possible questions generated](#possible-questions-generated)
 
--[questions answered using sql](# questions-answered-using-sql)
+-[questions answered using sql](#questions-answered-using-sql)
 
--[visualization in powerbi](# visualization-in-powerbi)
+-[visualization in powerbi](#visualization-in-powerbi)
 
--[finfings](# findings)
+-[finfings](#findings)
 
 
 
