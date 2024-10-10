@@ -1,5 +1,23 @@
 ## PROJECT DESCRIPTION ON FARM YIELD
 
+## Table of Contents
+
+-[project overview](# project-overview)
+
+-[data source](# data-source)
+
+-[tools used](# tools-used)
+
+-[possible questions generated](# possible-questions-generated)
+
+-[questions answered using sql](# questions-answered-using-sql)
+
+-[visualization in powerbi](# visualization-in-powerbi)
+
+-[finfings](# findings)
+
+
+
 # Project Overview
 
 This dataset comprises of inflation on “Food consumption” and “Farm produce and energy” consisting of 12 rows and 354 columns.
@@ -27,6 +45,7 @@ PowerBi Desktop: To visualize the outcome.
 
 
 # QUESTIONS ANSWERED USING SQL
+
 --use farm_yield
 
 --go
