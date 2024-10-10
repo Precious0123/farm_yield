@@ -83,7 +83,7 @@ PowerBi Desktop: To visualize the outcome.
 
 # VISUALIZATION IN POWER BI
 
-After completing data cleaning and analysis in MySQL, the results were exported to CSV files
+After completing data cleaning and analysis in microsoftexcel , the results were exported to CSV files
 
 These CSV files served as the basis for creating a visually appealing dashboard in Power BI.
 
