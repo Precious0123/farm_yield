@@ -33,7 +33,7 @@ PowerBi Desktop: To visualize the outcome.
 
 --select * from farm_produce
 
-#-->>/How has the "All Items Index" trended over the past year/<<
+-->>/How has the "All Items Index" trended over the past year/<<
 
 --select "Year", All_items_index_monthly
 
@@ -46,7 +46,7 @@ PowerBi Desktop: To visualize the outcome.
 
 --select * from farm_produce
 
-# -->>/ TOP 20 YEARS AND MONTHS OF MAXIMIUM YEILD /<<
+-->>/ TOP 20 YEARS AND MONTHS OF MAXIMIUM YEILD /<<
 
 --select top 10 "Year", "Month", All_items_index_monthly, Food_monthly,All_items_Excl_Farm_Energy_monthly from farm_produce
 
@@ -54,7 +54,8 @@ PowerBi Desktop: To visualize the outcome.
 
 --select * from farm_produce
 
-# -->>/Top 20 YEARS AND MONTHS WITH THE LOWEST YIELD/<<
+-->>/Top 20 YEARS AND MONTHS WITH THE LOWEST YIELD/<<
+
 --Select top 20 "Year", "Month", All_items_index_monthly, Food_monthly, All_items_Excl_Farm_Energy_monthly from farm_produce
 
 --where All_items_index_monthly < 50
